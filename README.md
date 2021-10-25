@@ -117,6 +117,7 @@ It can be achieved by binding the required view model property in the ResourceIn
                  …
 ```
 
+KB article - [How to display resource name in WPF Gantt chart](https://www.syncfusion.com/kb/12078/how-to-display-resource-name-on-gantt-chart-in-the-wpf-ganttcontrol)
 
 ## See also
 
